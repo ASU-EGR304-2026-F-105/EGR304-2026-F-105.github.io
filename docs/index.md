@@ -1,17 +1,17 @@
 ---
-title: Home
+title: EGR 304 Group 105
 tags:
 - tag1
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
-<font size="5">Team ###<br>
-**Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+<font size="8">Fantastically Wonderful Project<br>
+<font size="5">Team 105<br>
+**Submission: September, 4, 2026**<br>
+Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Profesors: Zane Reynolds and Dr. Kevin Nichols<br>
   
 
 </center>
@@ -26,7 +26,7 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
+| William Buckner                | [WilliamBuckner.GitHub](https://wbuckne2.github.io/wbuckne2_EGR304_F26.github.io/) |
 | Name #2                | link |
 | Name #3                | link |
 | Name #4                | link |
