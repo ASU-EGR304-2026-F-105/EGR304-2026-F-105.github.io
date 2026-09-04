@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Fantastically Wonderful Project<br>
+<font size="8">Project Name<br>
 <font size="5">Team 105<br>
 **Submission: September, 4, 2026**<br>
 Fall 2026<br>
