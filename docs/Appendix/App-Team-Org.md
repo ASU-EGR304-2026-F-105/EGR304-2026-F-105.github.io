@@ -16,8 +16,8 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |William Buckner |  Discord | Text | Email |
-|Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
+|Mateo Delgado |  Discord | Text | Email |
+|Sultan Haidar Ali |  Discord | Text | Email |
 
 
 ### Main Method for Group Communication
@@ -65,9 +65,8 @@ _**Table Legend for Appendix Table 2**_
 ## Meeting Coordination
 
 1. A Google Calendar will be shared between the team to ensure we are all on top of meeting times. 
-
 1. If we have to change meeting times, that will all be communicated through discord, and through a new when2meet being sent to check availability.
-1. We are going to try out one face to face meeting on Tuesday, Thursdays, two hours each day. With one meeting over Discord on Friday nights. 
+1. We are going to try out one face to face meeting on Tuesday, Thursdays, from 1:30 to 3:30. With one meeting over Discord on Friday nights as necessary. 
 
 ## Roles & Responsibilities
 
