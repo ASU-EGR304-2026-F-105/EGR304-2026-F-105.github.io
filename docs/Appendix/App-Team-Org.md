@@ -7,7 +7,12 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+1. Reliability (physically and internally) of the product
+2. Presentable final product in professional manner
+3. Products Portfolio/Troubleshooting journal
+4. Communicate effectively and remain on good terms with each other by the end
+5. Level of preparedness and proactivity maintained throughout the project
+
 
 ## Communication Channels
 
