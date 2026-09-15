@@ -224,9 +224,10 @@ title: User Needs and Benchmarking
 ## Organized Need Statements
 
 ### First Placement
+<img src="/EGR304-2026-F-105.github.io/image/Random.png" alt="Random" width="400">
 
 ### Grouped with categories
-<img src="/EGR304-2026-F-105.github.io/image/Grouped Notes.jpg" alt="GroupedNotes" width="400">
+<img src="/EGR304-2026-F-105.github.io/image/Grouped.png" alt="Grouped" width="400">
 
 ### Ranked
 
