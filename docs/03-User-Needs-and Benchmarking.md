@@ -16,7 +16,7 @@ title: User Needs and Benchmarking
 
 ![](image1.png)
 
-<img src="image/SpotX.jpg" alt="SPOT X" width="200">
+<img src="/EGR304-2026-F-105.github.io/image/SpotX.jpg" alt="SPOT X" width="200">
 
 * Price: $249.95
 
