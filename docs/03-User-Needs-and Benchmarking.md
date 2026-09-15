@@ -226,6 +226,7 @@ title: User Needs and Benchmarking
 ### First Placement
 
 ### Grouped with categories
+<img src="/EGR304-2026-F-105.github.io/image/Grouped Notes.jpg" alt="GroupedNotes" width="400">
 
 ### Ranked
 
