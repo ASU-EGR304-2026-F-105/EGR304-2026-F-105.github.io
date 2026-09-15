@@ -55,33 +55,45 @@ title: User Needs and Benchmarking
 | | Confidence that critical communications have reached their intended recipient (latent) |
 
 
-#### 2. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
+#### 2. [ZOLEO Satellite Communicator (Slate Grey)](https://www.amazon.com/ZOLEO-Satellite-Messenger/dp/B07X59RH7T ) 
 
-![](image1.png)
 
-**(include a picture)**
 
-* Price: $65
+<img src="/EGR304-2026-F-105.github.io/image/ZOLEO.jpg" alt="ZOLEO" width="200">
+
+* Price: $149.99
 
 * Vendor: Amazon
 
-* Description: The kit includes over 50 high quality components and 10 Challenges that inspire kids to invent their own creations. The pieces are a combination of the everyday and the mysterious, perfect for generating creativity, boosting IQ and instilling STEM knowledge.
+* Description: A compact satellite messaging device that pairs with your smartphone to send and receive messages, share your GPS location, and contact emergency services when you’re outside cellular coverage. 
 
 ##### Positive Comments
 
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
+| Voice of the Customer | Restated Customer Need |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Messages reliably go through in remote areas where there is no cell service. | Reliable communication beyond the reach of cellular networks (explicit) |
+| | Confidence that emergency messages will be delivered when needed (latent) |
+| | Consistent connectivity in remote and off-grid environments (latent) |
+| Long lasting battery, lasting between several days to over a week on a trip. | A battery that supports extended trips without frequent charging (explicit) |
+| | Reduced dependence on charging infrastructure during outdoor activities (latent) |
+| | Confidence that the device will remain powered throughout the trip (latent) |
+| The Bluetooth connection and companion app make texting and location sharing straightforward for most users. | Quick and reliable Bluetooth pairing with a smartphone (explicit) |
+| | A communication system that is easy to learn and operate (latent) |
+| | Seamless sharing of messages and location with minimal user effort (latent) |                            |
 
 ##### Negative Comments
 
-| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| "I am a STEM teacher and bought a large quantity of these kits and I am disgusted by how easily the motor breaks. 12 years in STEM schools and this product is at the bottom of my list. The ladybug platform, as we call it, needs some reimagining and the materials simply can't handle the wear and tear of a classroom. Sad that I spend my own money on this with so little we got out of it." | 1.  The kit is robust. (explicit)                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
+| Voice of the Customer | Restated Customer Need |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Without a connected phone, the device is limited to SOS and preset check-ins since it has no display or keyboard. | Independent communication capabilities without requiring a smartphone (explicit) |
+| | Access to essential communication features even if a phone is unavailable (latent) |
+| | Greater self-sufficiency during emergency situations (latent) |
+| Some users find the app unintuitive, with cumbersome setup and account management. | An app that is simple to navigate and configure (explicit) |
+| | A streamlined setup process with minimal account management (latent) |
+| | A user experience that minimizes frustration and technical support needs (latent) |
+| There are instances of delayed message delivery or intermittent syncing, especially for location sharing. | Fast and reliable message transmission (explicit) |
+| | Consistent synchronization between the device and smartphone (latent) |
+| | Confidence that location updates are delivered accurately and on time (latent) |
 
 
 ### Selected Products
