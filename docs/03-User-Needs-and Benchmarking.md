@@ -61,7 +61,7 @@ title: User Needs and Benchmarking
 
 <img src="/EGR304-2026-F-105.github.io/image/ZOLEO.jpg" alt="ZOLEO" width="200">
 
-* Price: $149.99
+* Price: $149.00
 
 * Vendor: Amazon
 
@@ -96,40 +96,129 @@ title: User Needs and Benchmarking
 | | Confidence that location updates are delivered accurately and on time (latent) |
 
 
-### Selected Products
 
-#### 1. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
 
-![](image1.png)
+#### 3. [AT2 Portable Walkie Talkies for Outdoor Hunting Emergency, 2Packs](https://www.amazon.com/Alervites-AT2-Portable-Talkies-Emergency/dp/B0GVDV2VL4) 
 
-**(include a picture)**
 
-* Price: $65
+
+<img src="/EGR304-2026-F-105.github.io/image/Alervites.jpg" alt="Alervites" width="200">
+
+* Price: $59.99
 
 * Vendor: Amazon
 
-* Description: The kit includes over 50 high quality components and 10 Challenges that inspire kids to invent their own creations. The pieces are a combination of the everyday and the mysterious, perfect for generating creativity, boosting IQ and instilling STEM knowledge.
+* Description:  A compact UHF two-way radio that supports off-grid communication, including voice, text, images, and location sharing between compatible devices. It features Bluetooth app control, USB-C charging, and is designed for hiking, camping, and emergency communication
 
 ##### Positive Comments
 
-| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
+| Voice of the Customer | Restated Customer Need |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Compact and lightweight, making it easy to carry during outdoor activities. | A communication device that fits easily into a pocket or backpack (explicit) |
+| | Equipment that minimizes physical burden during long hikes or trips (latent) |
+| | A durable device that can be carried comfortably throughout the day (latent) |
+| Clear audio with reliable communication in typical outdoor conditions. | Clear communication that remains understandable in outdoor environments (explicit) |
+| | Confidence that messages are transmitted accurately when they matter most (latent) |
+| | Consistent communication quality across different outdoor settings (latent) |
+| The Bluetooth app makes programming and messaging much easier than traditional radios. | Quick and easy device configuration through a smartphone (explicit) |
+| | A user-friendly interface that minimizes setup time (latent) |
+| | Seamless integration between the radio and mobile devices (latent) |
 
 ##### Negative Comments
 
-| Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| "I am a STEM teacher and bought a large quantity of these kits and I am disgusted by how easily the motor breaks. 12 years in STEM schools and this product is at the bottom of my list. The ladybug platform, as we call it, needs some reimagining and the materials simply can't handle the wear and tear of a classroom. Sad that I spend my own money on this with so little we got out of it." | 1.  The kit is robust. (explicit)                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
+| Voice of the Customer | Restated Customer Need |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Communication range drops significantly in dense forests or areas with heavy obstacles. | Reliable communication in wooded or obstructed environments (explicit) |
+| | Consistent signal performance despite terrain or vegetation (latent) |
+| | Confidence that communication remains available during emergencies in remote locations (latent) |
+| The companion app can be confusing or unintuitive for first-time users. | An app that is easy for new users to learn (explicit) |
+| | Clear navigation that minimizes user errors (latent) |
+| | A streamlined setup process that requires little technical knowledge (latent) |
+| The radios supported frequencies and intended use can be unclear, leading to confusion about compatibility and regulations. | Clear information about compatible devices and supported frequencies (explicit) |
+| | Straightforward guidance on legal operation and licensing requirements (latent) |
+| | Confidence that the device can be used correctly without extensive research (latent) |
+
+#### 4. [pxton Walkie Talkies Long Range for Adults with Earpieces,16 Channel Walky Talky Rechargeable Handheld Two Way Radios with Flashlight Li-ion Battery and Charger（4 Pack)](https://www.amazon.com/pxton-Earpieces-Rechargeable-Flashlight-Charger%EF%BC%884/dp/B08MKT9B7X ) 
 
 
-#### 4. Next Product goes here
 
-#### 5. Next Product goes here
+<img src="/EGR304-2026-F-105.github.io/image/pxton.jpg" alt="pxton" width="200">
+
+* Price: $49.99
+
+* Vendor: Amazon
+
+* Description: Rechargeable two-way radios with 16 channels, long-range communication, built-in flashlights, and included earpieces for hands-free use. They are designed for reliable communication during outdoor activities, worksites, events, and travel. 
+
+##### Positive Comments
+
+| Voice of the Customer | Restated Customer Need |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Clear audio and reliable communication over long distances. | Reliable communication in noisy or challenging environments (explicit) |
+| | Confidence that messages are received without distortion or interruption (latent) |
+| | Consistent performance throughout the device's advertised communication range (latent) |
+| Long battery life lasts through a full day or multiple days of typical use. | A battery that lasts through an entire work shift or outdoor trip (explicit) |
+| | Less time spent recharging and more time using the device (latent) |
+| | Confidence that the device will remain operational during emergencies (latent) |
+| Easy to use and a great value for the price. | Controls that are easy to learn for first-time users (explicit) |
+| | Quick setup with minimal configuration before use (latent) |
+| | Reliable performance without paying for unnecessary features (latent) |                         |
+
+##### Negative Comments
+
+| Voice of the Customer | Restated Customer Need |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Some users experienced static interference or unwanted transmissions. | Clear communication without interference from other users (explicit) |
+| | Reliable channel isolation that minimizes unwanted transmissions (latent) |
+| | Confidence that important messages will not be interrupted (latent) |
+| The included earpieces are uncomfortable or poor quality. | Comfortable accessories for extended wear (explicit) |
+| | Durable accessories that withstand regular use (latent) |
+| | Audio accessories that stay securely in place during movement (latent) |
+| Some units have durability or battery reliability issues over time. | Equipment that remains dependable after repeated use (explicit) |
+| | Long-term durability without premature component failures (latent) |
+| | Consistent battery performance throughout the product's lifespan (latent) |
+
+
+#### 5. [Motorola Defy Satellite Link - Rugged Handheld GPS Communicator, Two-Way Global SMS Text Messenger, Emergency SOS Alerting - Android iOS Compatible](https://www.amazon.com/Motorola-Defy-Satellite-Link-Communicator/dp/B0C4QZJGCL ) 
+
+
+
+<img src="/EGR304-2026-F-105.github.io/image/Motorola.jpg" alt="Motorola" width="200">
+
+* Price: $149.99
+
+* Vendor: Amazon
+
+* Description: A compact satellite communicator that pairs with a smartphone to send and receive messages, share GPS locations, and access SOS emergency services when outside cellular coverage. It uses the Bullitt Satellite Messenger app and requires a satellite service subscription.
+
+##### Positive Comments
+
+| Voice of the Customer | Restated Customer Need |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Compact, lightweight design that's easy to carry on hikes and outdoor trips. | A communication device that fits comfortably in a pocket or backpack (explicit) |
+| | Equipment that minimizes physical burden during extended outdoor activities (latent) |
+| | A durable device that can be carried daily without inconvenience (latent) |
+| Fast, reliable messaging when there is a clear view of the sky. | Consistent message delivery in remote environments (explicit) |
+| | Confidence that important messages will reach their destination (latent) |
+| | Dependable communication during emergencies or critical situations (latent) |
+| Easy Bluetooth pairing with a smartphone and a straightforward messaging app. | Quick and hassle-free pairing with a smartphone (explicit) |
+| | An intuitive communication system that requires little training to use (latent) |
+| | Seamless integration between the communication device and existing mobile devices (latent) |
+
+##### Negative Comments
+
+| Voice of the Customer | Restated Customer Need |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| The device relies on a smartphone for most functions beyond SOS. | The ability to communicate without relying on another device (latent) |
+| | Essential communication features that remain available if a smartphone is lost, damaged, or out of battery (latent) |
+| | Greater independence from external devices during emergencies (latent) |
+| Initial setup, activation, and the companion app can be confusing. | A simple setup process that minimizes time and effort (explicit) |
+| | Clear instructions that make activation straightforward for first-time users (latent) |
+| | A user experience that reduces frustration during setup and daily use (latent) |
+| Satellite connectivity can be inconsistent in areas with obstructed views of the sky. | Reliable communication in a variety of environmental conditions (explicit) |
+| | Consistent connectivity despite terrain or natural obstacles (latent) |
+| | Confidence that messages can be sent when they are needed most (latent) |
+
 
 
 ## Organized Need Statements
