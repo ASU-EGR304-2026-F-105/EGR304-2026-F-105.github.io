@@ -16,7 +16,7 @@ title: User Needs and Benchmarking
 
 ![](image1.png)
 
-<img src="image/spotx.jpg" alt="SPOT X" width="200">
+<img src="image/SpotX.jpg" alt="SPOT X" width="200">
 
 * Price: $249.95
 
