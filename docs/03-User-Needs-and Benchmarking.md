@@ -230,9 +230,9 @@ title: User Needs and Benchmarking
 <img src="/EGR304-2026-F-105.github.io/image/Grouped.png" alt="Grouped" width="400">
 
 ### Ranked
-<img src="/EGR304-2026-F-105.github.io/image/Ranked1.png" alt="Ranked1" width="400">
-<img src="/EGR304-2026-F-105.github.io/image/Ranked2.png" alt="Ranked2" width="400">
-<img src="/EGR304-2026-F-105.github.io/image/Ranked3.png" alt="Ranked3" width="400">
+<img src="/EGR304-2026-F-105.github.io/image/Ranked1.PNG" alt="Ranked1" width="400">
+<img src="/EGR304-2026-F-105.github.io/image/Ranked2.PNG" alt="Ranked2" width="400">
+<img src="/EGR304-2026-F-105.github.io/image/Ranked3.PNG" alt="Ranked3" width="400">
 
 ## Compiled list of user Needs
 
