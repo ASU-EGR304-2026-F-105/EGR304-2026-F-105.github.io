@@ -16,13 +16,14 @@ This project aims to develop a portable and reliable off grid communication devi
 
 ## Use Cases
 
-### User Story #1: Jenna
+### User Story #1: Maya
 
 Maya is a 29-year-old hiker who regularly takes weekend trips into remote desert and mountain areas where cell service is unreliable or completely unavailable. She enjoys hiking alone because it gives her a sense of independence, but she also wants confidence that she can reach help if something goes wrong. For her, the most important need is dependable emergency communication beyond the reach of cellular networks.
 
 Before each trip, Maya sends her route to her family and uses her device to share simple check-in messages along the way. She does not want to spend time navigating complicated menus while tired or stressed, so quick access to preset messages and clear delivery confirmation are important. A long-lasting battery also matters because she needs the device to remain powered throughout the trip, not just during the first few hours.
 
-### User Story #2
+### User Story #2 : David
+
 David is a 46-year-old volunteer coordinator for a neighborhood emergency preparedness group. His team prepares for events such as wildfires, power outages, and severe storms, where cellular networks may become overloaded or unavailable. During these situations, his main concern is that critical messages reach the right people reliably and on time.
 
 David’s group includes people with very different levels of technical experience, so the device needs to be simple enough for members to use under stress. He cares most about dependable message delivery, clear confirmation that messages were sent, and communication features that still work without relying on a smartphone. The device gives the group confidence that they can coordinate basic safety actions even when normal communication systems fail.
