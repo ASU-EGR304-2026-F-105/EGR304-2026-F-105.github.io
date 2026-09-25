@@ -314,7 +314,7 @@ Concept two is intended to allow a device to work off grid, with an antenna to e
 
 Concept 2 was generated using 75, 21, 95, 22, 20, 47, 69, 63, 62, 61, 64, 5, 24, 23, 98, 99, 19, 76, 93, 92, 97, 77, 50, 53, 48, 105, 106, 108, 109, 110, 111, 118, 119, 120
 
-<img src="/EGR304-2026-F-105.github.io/image/Design 2.png" alt="Design 2" width="400">
+<img src="/EGR304-2026-F-105.github.io/image/Design 2.png" alt="Design 2" width="800">
 
 ### Concept Three
 
