@@ -318,11 +318,11 @@ Concept 2 was generated using 75, 21, 95, 22, 20, 47, 69, 63, 62, 61, 64, 5, 24,
 
 ### Concept Three
 
-Concept three is 
+Concept three is based off of a pager with a QWERTY keyboard built in. This allows for more detailed communication with friends and family, that with the included antenna, can send messages across far distances. This is less built for outdoor use, while still being durable, and more as a specifically off grid communication device that is compact and portable, with low power consumption for long use times. 
 
 Concept 3 was generated using 75, 95, 22, 20, 47, 69, 5, 24, 23, 25, 98, 99, 19, 8, 83, 10, 80, 7, 9, 84, 53, 48, 50, 55, 56, 88, 59, 65, 73, 74, 100, 104, 105, 106, 109, 110
 
-<img src="/EGR304-2026-F-105.github.io/image/Design 2.png" alt="Design 2" width="400">
+<img src="/EGR304-2026-F-105.github.io/image/Design 3.png" alt="Design 3" width="400">
 
 ## Step Five
 
