@@ -304,23 +304,17 @@ In this section we are going over the 100 ideas that we have generated based off
 
 Concept one is a fairly traditional off grid GPS communication device. It has large buttons that are easy to press even in harsh conditions, an offline compass and gps location tracking for consistent reliable position tracking. It also has an easy to read message delivery confirmation section, so that users can feel confident that their messages are getting through to their loved ones. Its made with rugged materials, great for surviving in outdoors environments for long periods of time, with a long battery life to back it up. 
 
-Concept one, was generated using 75, 21, 95, 22, 20, 47, 18, 30, 5, 25, 19, 2, 9, 44, 46, 27, 96, 31, 45, 81, 10, 79, 7, 84, 53, 48, 50, 51, 52, 32, 33, 34, 35, 36, 55, 56, 57, 88, 58, 59, 60, 54, 100, 101, 102, 103, 104, 105, 107, 111, 112, 113, 114, 116, 117. 
-
 <img src="/EGR304-2026-F-105.github.io/image/Design 1.png" alt="Design 1" width="400">
 
 ### Concept Two 
 
 Concept two is intended to allow a device to work off grid, with an antenna to ensure consistent connectivity, and an OLED display that at a quick glance shows the quality of the connection. This is then easily connected to either the side of a laptop, or the back of a phone, making it easy to connect to any device with the included usb-c cable. 
 
-Concept 2 was generated using 75, 21, 95, 22, 20, 47, 69, 63, 62, 61, 64, 5, 24, 23, 98, 99, 19, 76, 93, 92, 97, 77, 50, 53, 48, 105, 106, 108, 109, 110, 111, 118, 119, 120
-
 <img src="/EGR304-2026-F-105.github.io/image/Design 2.png" alt="Design 2" width="800">
 
 ### Concept Three
 
 Concept three is based off of a pager with a QWERTY keyboard built in. This allows for more detailed communication with friends and family, that with the included antenna, can send messages across far distances. This is less built for outdoor use, while still being durable, and more as a specifically off grid communication device that is compact and portable, with low power consumption for long use times. 
-
-Concept 3 was generated using 75, 95, 22, 20, 47, 69, 5, 24, 23, 25, 98, 99, 19, 8, 83, 10, 80, 7, 9, 84, 53, 48, 50, 55, 56, 88, 59, 65, 73, 74, 100, 104, 105, 106, 109, 110
 
 <img src="/EGR304-2026-F-105.github.io/image/Design 3.png" alt="Design 3" width="400">
 
