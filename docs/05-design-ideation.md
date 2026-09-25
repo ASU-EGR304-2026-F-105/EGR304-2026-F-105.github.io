@@ -306,7 +306,7 @@ Concept one is a fairly traditional off grid GPS communication device. It has la
 
 Concept one, was generated using 75, 21, 95, 22, 20, 47, 18, 30, 5, 25, 19, 2, 9, 44, 46, 27, 96, 31, 45, 81, 10, 79, 7, 84, 53, 48, 50, 51, 52, 32, 33, 34, 35, 36, 55, 56, 57, 88, 58, 59, 60, 54, 100, 101, 102, 103, 104, 105, 107, 111, 112, 113, 114, 116, 117. 
 
-<img src="/EGR304-2026-F-105.github.io/image/docs/Design 1.PNG" alt="Design 1" width="400">
+<img src="/EGR304-2026-F-105.github.io/image/Design 1.png" alt="Design 1" width="400">
 
 ### Concept Two 
 
@@ -314,7 +314,7 @@ Concept two is intended to allow a device to work off grid, with an antenna to e
 
 Concept 2 was generated using 75, 21, 95, 22, 20, 47, 69, 63, 62, 61, 64, 5, 24, 23, 98, 99, 19, 76, 93, 92, 97, 77, 50, 53, 48, 105, 106, 108, 109, 110, 111, 118, 119, 120
 
-<img src="/EGR304-2026-F-105.github.io/image/docs/Design 2.PNG" alt="Design 2" width="400">
+<img src="/EGR304-2026-F-105.github.io/image/Design 2.png" alt="Design 2" width="400">
 
 ### Concept Three
 
@@ -322,7 +322,7 @@ Concept three is
 
 Concept 3 was generated using 75, 95, 22, 20, 47, 69, 5, 24, 23, 25, 98, 99, 19, 8, 83, 10, 80, 7, 9, 84, 53, 48, 50, 55, 56, 88, 59, 65, 73, 74, 100, 104, 105, 106, 109, 110
 
-<img src="/EGR304-2026-F-105.github.io/image/docs/Design 2.PNG" alt="Design 2" width="400">
+<img src="/EGR304-2026-F-105.github.io/image/Design 2.png" alt="Design 2" width="400">
 
 ## Step Five
 
