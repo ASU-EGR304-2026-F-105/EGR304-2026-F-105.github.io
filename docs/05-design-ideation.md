@@ -4,7 +4,7 @@ title: Design Ideation
 
 ## Intro/overview
 
-In this section we are going over the 100 ideas that we have generated based off of the user needs found from the previous sections. We then have sorted and ranked these ideas into different categories and created three unique products based off of these generated ideas. For more information about how we generated our ideas and who helped to generate them, please refer to the very bottom under Step five for more information. 
+In this section we are going over the 100 ideas that we have generated based off of the user needs found from the previous sections. We then have sorted and ranked these ideas into different categories and created three unique products based off of these generated ideas. For more information about how we generated our ideas and who helped to generate them, please refer to the very bottom under step five for more information. 
 
 ## Generating Ideas
 
