@@ -29,4 +29,5 @@ Profesors: Zane Reynolds and Dr. Kevin Nichols<br>
 | William Buckner                | [WilliamBuckner.GitHub](https://wbuckne2.github.io/wbuckne2_EGR304_F26.github.io/) |
 | Mateo Delgado                | [MateoDelgado.GitHub](https://mdelga66.github.io/) |
 | Sultan Haidar Ali        | [SultanHaidarAli.GitHub](https://stalloneman.github.io/) |
+| Joseph Rivera                | [josephriv28.github.io](https://josephriv28.github.io/josephriv28_EGR304_F26.github.io/) |
 
