@@ -50,9 +50,9 @@ _**Appendix Table 2**: Weekly Schedule_
 | 12:00 PM | J | J | - | J | - | - | - |
 | 1:00 PM | M , J | W , J | W | W | W , J | W , M | - |
 | 2:00 PM | M , J | W , J | W , M | W | W , M , J | W | W |
-| 3:00 PM | M , J | W | W , M , S | W| W , M , S , J| W | W |
-| 4:00 PM | M , J | W , | W , M , S| W | W , M , S , J| - | W |
-| 5:00 PM | M , J | W , J | W , M , S| W | W , M , S , J| - | W |
+| 3:00 PM | M , J | W | W , M , S, J | W| W , M , S , J| W | W |
+| 4:00 PM | M , J | W , | W , M , S, J | W | W , M , S , J| - | W |
+| 5:00 PM | M , J | W , J | W , M , S, J| W | W , M , S , J| - | W |
 | 6:00 PM | J | S , J | M , J | - | S , J | M | - |
 | 7:00 PM | J | S , J | M , J | - | S , J | M | - |
 | 8:00 PM | J | M | - | - | M | M | - |
