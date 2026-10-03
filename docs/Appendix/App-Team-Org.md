@@ -23,6 +23,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |William Buckner |  Discord | Text | Email |
 |Mateo Delgado |  Discord | Text | Email |
 |Sultan Haidar Ali |  Discord | Text | Email |
+|Joseph Rivera |  Discord | Text | Email |
 
 
 ### Main Method for Group Communication
@@ -42,20 +43,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | M | - | M | - | M | - |
-| 9:00 AM | - | M | - | M | - | M | - |
-| 10:00 AM | - | M | - | M | - | M | - |
-| 11:00 AM | - | - | - | - | - | M | - |
-| 12:00 PM | - | - | - | - | - | - | - |
-| 1:00 PM | M | W | W | W | W | W , M | - |
-| 2:00 PM | M | W | W , M | W | W , M | W | W |
-| 3:00 PM | M | W | W , M , S | W| W , M , S| W | W |
-| 4:00 PM | M | W | W , M , S| W | W , M , S| - | W |
-| 5:00 PM | M | W | W , M , S| W | W , M , S| - | W |
-| 6:00 PM | - | S | M | - | S | M | - |
-| 7:00 PM | - | S | M | - | S | M | - |
-| 8:00 PM | - | M | - | - | M | M | - |
-| 9:00 PM | - | M | - | - | M | M | - |
+| 8:00 AM | J | M , J | - | M , J | - | M , J | - |
+| 9:00 AM | J | M , J | - | M , J | - | M , J | - |
+| 10:00 AM | J | M | - | M | - | M | - |
+| 11:00 AM | J | - | - | - | - | M | - |
+| 12:00 PM | J | J | - | J | - | - | - |
+| 1:00 PM | M , J | W , J | W | W | W , J | W , M | - |
+| 2:00 PM | M , J | W , J | W , M | W | W , M , J | W | W |
+| 3:00 PM | M , J | W | W , M , S , J | W| W , M , S , J| W | W |
+| 4:00 PM | M , J | W | W , M , S , J | W | W , M , S , J| - | W |
+| 5:00 PM | M , J | W , J | W , M , S , J| W | W , M , S , J| - | W |
+| 6:00 PM | J | S , J | M , J | - | S , J | M | - |
+| 7:00 PM | J | S , J | M , J | - | S , J | M | - |
+| 8:00 PM | J | M | - | - | M | M | - |
+| 9:00 PM | J | M | - | - | M | M | - |
 
 _**Table Legend for Appendix Table 2**_
 
@@ -64,6 +65,7 @@ _**Table Legend for Appendix Table 2**_
 | William Buckner | W |
 | Mateo Delgado | M |
 | Sultan Haidar Ali | S |
+| Joseph Rivera | J |
 
 
 
@@ -86,7 +88,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Role Distribuiton
 
-The initial role distribution will be William as the assignment leader and meeting leader, Sultan as the meeting recorder, and Mateo as the project monitor. We feel that a role rotation after every major deadline is the most fair way to ensure that everyone is equally fulfilling each role. It's important to note that we don't plan on having a specific rotation order, rather selecting what each member would like to do for that deadline, as long as it is different then what they did previously. It is also important to note that we have only three members rather than the typical group of four. This means that each deadline, someone will be fulfilling two roles rather than just a singular one, most likely this will be in the form of the assignment leader being combined with something else. We chose this role to combine as it has the least demanding workload attached directly to it. As there is the possibility of one member having a more demanding work load one week to another, if needed we can share or split the responsibility as needed. Milestone tracking and meetings will all be tracked through a share Google Calendar. Technical responsibilities will be assigned as evenly as possible, the end goal is to learn from this class, we don't want a singular individual taking control of one aspect and the other members loosing out on the opportunity to learn in those aspects. 
+The initial role distribution will be William as the assignment leader, Sultan as the meeting leader, Mateo as the project monitor, and Joseph as the meeting recorder. We feel that a role rotation after every major deadline is the most fair way to ensure that everyone is equally fulfilling each role. It's important to note that we don't plan on having a specific rotation order, rather selecting what each member would like to do for that deadline, as long as it is different then what they did previously. It is also important to note that we have only three members rather than the typical group of four. This means that each deadline, someone will be fulfilling two roles rather than just a singular one, most likely this will be in the form of the assignment leader being combined with something else. We chose this role to combine as it has the least demanding workload attached directly to it. As there is the possibility of one member having a more demanding work load one week to another, if needed we can share or split the responsibility as needed. Milestone tracking and meetings will all be tracked through a share Google Calendar. Technical responsibilities will be assigned as evenly as possible, the end goal is to learn from this class, we don't want a singular individual taking control of one aspect and the other members loosing out on the opportunity to learn in those aspects. 
 
 ## Team Coordination & Accountability 
 As we are communicating primarily through Discord, it is extremely easy to do have rapid back and forth communication, it should be easy to communicate deadline responsibilities and ensure that everyone is satisfied with the state of the assignment before it is submitted. 
@@ -118,5 +120,7 @@ William Buckner
 Mateo Delgado 
 
 Sultan Haidar Ali
+
+Joseph Rivera
 
 
