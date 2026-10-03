@@ -4,11 +4,16 @@ title: Team Block Diagram
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+This is our current circuit diagram for our final project. Utilizing a wheel and spoke type system, with a single control board where the majority of information is flowing into, and then out to specific points. 
 
-## Research Question
+## Images
+
+<img src="/EGR304-2026-F-105.github.io/image/Team 105 Block Diagram.drawio.png.jpg" alt="BlockDiagram" width="200">
+
+
+
+
+<!--## Research Question
 
 * Bullet Point 1
 * Bullet Point 2
@@ -25,7 +30,7 @@ _Italic Text_
 
 <!-- 
 ![showcase](../image/innovation_showcase_Sp-2025.jpg)  
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math. -->
+**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math. 
 
 
 ## Results
@@ -55,5 +60,5 @@ _Italic Text_
 
 
 ## References
-
+-->
 
