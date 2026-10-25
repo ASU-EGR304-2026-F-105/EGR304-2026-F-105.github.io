@@ -5,9 +5,9 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Thing<br>
+<font size="8">Radiolink<br>
 <font size="5">Team 105<br>
-**Submission: September, 4, 2026**<br>
+**Submission: October, 30, 2026**<br>
 Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
