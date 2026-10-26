@@ -18,19 +18,17 @@ Profesors: Zane Reynolds and Dr. Kevin Nichols<br>
 
 ## Team Introduction
 
-!!! note ""
-    Team 105 is a group of undergraduate engineering students at Arizona State University (ASU) enrolled in the EGR 304 course. The team consists of William Buckner, Mateo Delgado, Sultan Haidar Ali, and Joseph Rivera. Together, all four members are developing RadioLink, a portable, off-grid communication device designed to provide reliable communication during emergency situations.
+>Team 105 is a group of undergraduate engineering students at Arizona State University (ASU) enrolled in the EGR 304 course. The team consists of William Buckner, Mateo Delgado, Sultan Haidar Ali, and Joseph Rivera. Together, all four members are developing RadioLink, a portable, off-grid communication device designed to provide reliable communication during emergency situations.
 
-    This project emphasizes dependable wireless messaging, portability, ease of use, and the ability to operate without conventional cellular networks or internet services. Using a combination of microcontrollers, sensors, and user interface components, Team 105 aims to develop a functional prototype that addresses the limitations of existing communication devices.
+>This project emphasizes dependable wireless messaging, portability, ease of use, and the ability to operate without conventional cellular networks or internet services. Using a combination of microcontrollers, sensors, and user interface components, Team 105 aims to develop a functional prototype that addresses the limitations of existing communication devices.
 
-    Each team member is responsible for developing an individual hardware subsystem that contributes to the overall functionality of RadioLink. These subsystems will be integrated through shared power distribution and communication connections, allowing all components to operate together as a complete system.
+>Each team member is responsible for developing an individual hardware subsystem that contributes to the overall functionality of RadioLink. These subsystems will be integrated through shared power distribution and communication connections, allowing all components to operate together as a complete system.
 
 ---
 
 ## Website Navigation
 
-!!! note ""
-    This website documents the planning, research, development, and engineering decisions behind RadioLink. Readers can explore the following sections to better understand our project:
+This website documents the planning, research, development, and engineering decisions behind RadioLink. Readers can explore the following sections to better understand our project:
 
     - **Team Organization:** Introduces the team's charter, individual responsibilities, and overall product mission.
 
