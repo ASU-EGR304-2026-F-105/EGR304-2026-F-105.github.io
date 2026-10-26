@@ -18,7 +18,7 @@ Profesors: Zane Reynolds and Dr. Kevin Nichols<br>
 
 ## Team Introduction
 
-Team 105 is a group of undergraduate engineering students at Arizona State University (ASU) enrolled in the EGR 304 course. The team consists of William Buckner, Mateo Delgado, Sultan Haidar Ali, and Joseph Rivera. Together, all four members are developing RadioLink, a portable, off-grid communication device designed to provide reliable communication during emergency situations.
+Team 105 is a group of undergraduate engineering students at Arizona State University (ASU) enrolled in the EGR 304 course. The team consists of William Buckner, Mateo Delgado, Sultan Haidar Ali, and Joseph Rivera. Together, all four members are developing RadioLink, a portable, off-grid communication device designed to provide reliable communication during emergency situations. Further elaboration of the project and the team's involvement can be read here:
 
 >This project emphasizes dependable wireless messaging, portability, ease of use, and the ability to operate without conventional cellular networks or internet services. Using a combination of microcontrollers, sensors, and user interface components, Team 105 aims to develop a functional prototype that addresses the limitations of existing communication devices.
 
@@ -29,22 +29,15 @@ Team 105 is a group of undergraduate engineering students at Arizona State Unive
 ## Website Navigation
 
 This website documents the planning, research, development, and engineering decisions behind RadioLink. Readers can explore the following sections to better understand our project:
+>- **Team Organization:** Introduces the team's charter, individual responsibilities, and overall product mission.
+>- **User Needs and Benchmarking:** Examines existing communication products and identifies customer needs that influence our design.
+>- **Product Requirements:** Defines the project's objectives, target users, design specifications, and criteria used to evaluate the product.
+>- **Design Ideation:** Presents the brainstorming, ranking, and evaluation of potential features and product concepts.
+>- **Team Block Diagram:** Illustrates the major hardware subsystems, power distribution, and communication connections within RadioLink.
+>- **Software Proposal:** Outlines the proposed software architecture and how the device's components will communicate and operate.
+>- **Appendix:** Provides supporting documentation and additional information relevant to the development process.
 
-    >- **Team Organization:** Introduces the team's charter, individual responsibilities, and overall product mission.
-
-    >- **User Needs and Benchmarking:** Examines existing communication products and identifies customer needs that influence our design.
-
-    >- **Product Requirements:** Defines the project's objectives, target users, design specifications, and criteria used to evaluate the product.
-
-    >- **Design Ideation:** Presents the brainstorming, ranking, and evaluation of potential features and product concepts.
-
-    >- **Team Block Diagram:** Illustrates the major hardware subsystems, power distribution, and communication connections within RadioLink.
-
-    >- **Software Proposal:** Outlines the proposed software architecture and how the device's components will communicate and operate.
-
-    >- **Appendix:** Provides supporting documentation and additional information relevant to the development process.
-
-    For additional technical details, readers may also explore the individual team member documentation, which includes component selections, block diagrams, schematics, PCB designs, and subsystem development.
+For additional technical details, readers may also explore the individual team member documentation, which includes component selections, block diagrams, schematics, PCB designs, and subsystem development.
 
 ## Team Members Datasheet links
 
