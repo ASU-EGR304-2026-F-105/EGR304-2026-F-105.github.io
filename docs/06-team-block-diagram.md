@@ -8,7 +8,7 @@ This is our current circuit diagram for our final project. Utilizing a wheel and
 
 ## Images
 
-![Team 105 Block Diagram](../image/Team%20105%20Block%20Diagram.drawio.png)
+<img src="/EGR304-2026-F-105.github.io/image/Team 105 Block Diagram.drawio(1).png" alt="BlockDiagram" width="1000">
 
 
 
